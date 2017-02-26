@@ -1,7 +1,7 @@
 # ppl-assignment-priyasingh123
 ppl-assignment-priyasingh123 created by GitHub Classroom
 
-TESTED OVER System 64 bit operating system ubuntu 16.10
+Tested on 64 bit operating system ubuntu 14.04
 
 FIRST QUESTION
 
