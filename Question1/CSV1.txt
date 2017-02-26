@@ -1,0 +1,10 @@
+tanya 37 527 0 choosy single
+saumya 61 475 2 normal single
+sima 42 965 2 choosy single
+yashvi 21 360 6 normal single
+julia 22 375 6 normal single
+richa 76 830 2 choosy single
+harshita 54 574 9 desperate single
+tina 71 440 2 normal single
+prerna 29 915 8 desperate single
+mansi 72 46 7 desperate single
